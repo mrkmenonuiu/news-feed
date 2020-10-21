@@ -1,0 +1,9 @@
+C:\Users\hanna\source\repos\NewsFeedWebApi\NewsFeed.Utility\bin\Release\netcoreapp3.1\NewsFeed.Utility.deps.json
+C:\Users\hanna\source\repos\NewsFeedWebApi\NewsFeed.Utility\bin\Release\netcoreapp3.1\NewsFeed.Utility.dll
+C:\Users\hanna\source\repos\NewsFeedWebApi\NewsFeed.Utility\bin\Release\netcoreapp3.1\NewsFeed.Utility.pdb
+C:\Users\hanna\source\repos\NewsFeedWebApi\NewsFeed.Utility\obj\Release\netcoreapp3.1\NewsFeed.Utility.csprojAssemblyReference.cache
+C:\Users\hanna\source\repos\NewsFeedWebApi\NewsFeed.Utility\obj\Release\netcoreapp3.1\NewsFeed.Utility.AssemblyInfoInputs.cache
+C:\Users\hanna\source\repos\NewsFeedWebApi\NewsFeed.Utility\obj\Release\netcoreapp3.1\NewsFeed.Utility.AssemblyInfo.cs
+C:\Users\hanna\source\repos\NewsFeedWebApi\NewsFeed.Utility\obj\Release\netcoreapp3.1\NewsFeed.Utility.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\NewsFeedWebApi\NewsFeed.Utility\obj\Release\netcoreapp3.1\NewsFeed.Utility.dll
+C:\Users\hanna\source\repos\NewsFeedWebApi\NewsFeed.Utility\obj\Release\netcoreapp3.1\NewsFeed.Utility.pdb
